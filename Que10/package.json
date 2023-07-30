@@ -1,0 +1,19 @@
+{
+  "name": "q10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",   
+    "test": "mocha",           
+    "script1": "node script1.js", 
+    "script2": "node script2.js",
+    "script3": "node script3.js"  
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"           
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
